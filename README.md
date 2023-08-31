@@ -2,7 +2,7 @@
 
 
 # Pipe Viewer – A Unix Utility You Should Know About [Video]
-powerful Unix program called Pipe Viewer or pv for short. Pipe viewer is a terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly the data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
+powerful Unix program called Pipe Viewer or pipev for short. Pipe viewer is a terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly the data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
 
 <br/>
 <H2>What You Will Learn</H2>

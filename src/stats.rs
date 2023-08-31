@@ -71,7 +71,7 @@ fn output_progress(stderr: &mut Stderr, bytes: usize, elapse: String, rate: f64)
 /// # Example
 /// Here is an example of how to use it.
 /// ```rust
-/// use pv::stats::TimeOutput;
+/// use pipev::stats::TimeOutput;
 /// assert_eq!(65_u64.as_time(), String::from("0:01:05"));
 /// ```
 pub trait TimeOutput {
