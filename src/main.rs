@@ -1,5 +1,5 @@
 use crossbeam::channel::{bounded, unbounded, Receiver, Sender};
-use pv::{args::Args, read, stats, write};
+use pipev::{args::Args, read, stats, write};
 use std::io::Result;
 use std::thread;
 
