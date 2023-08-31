@@ -9,7 +9,7 @@ repository = "https://github.com/onos9/pipeviewer"
 readme = "README.md"
 keywords = ["pipeviewer", "pv", "pipe", "educational"]
 categories = ["command-line-utilities"]
-license = "MIT OR Apache-2.0,"
+# license = "MIT OR Apache-2.0,"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
